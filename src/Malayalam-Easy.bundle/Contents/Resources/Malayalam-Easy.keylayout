@@ -1,6 +1,6 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 3.3.0.249 on 2019-08-25 at 06:53 (EDT)-->
+<!--Last edited by Ukelele version 3.3.0.249 on 2019-08-29 at 13:46 (EDT)-->
 <keyboard group="126" id="-15950" name="Malayalam-Easy" maxout="3">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="commonModifiers"/>
@@ -1590,7 +1590,7 @@
             <!-- added -->
         </action>
         <action id="R">
-            <when state="none" output="ൄ"/>
+            <when state="none" output="ൃ"/>
             <when state="acute" output="Ŕ"/>
             <when state="caron" output="Ř"/>
             <when state="cedilla" output="Ŗ"/>

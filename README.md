@@ -1,10 +1,10 @@
-- [Malayalam Easy Keyboard for macOSX.](#orgcb512ad)
-  - [What is Malayalam Easy Keyboard](#org48ff422)
-  - [Installing Malayalam Easy Keyboard in macOSX](#org3bb31de)
-- [Malayalam Keyboard Mapping.](#org45e4469)
+- [Malayalam Easy Keyboard for macOSX.](#org060a817)
+  - [What is Malayalam Easy Keyboard](#org763ede7)
+  - [Installing Malayalam Easy Keyboard in macOSX](#orgb8cbfa8)
+- [Malayalam Keyboard Mapping.](#org369e522)
 
 
-<a id="orgcb512ad"></a>
+<a id="org060a817"></a>
 
 # Malayalam Easy Keyboard for macOSX.
 
@@ -18,7 +18,7 @@
 ഇൻസ്ക്രിപ്റ്റ് മലയാളം ടൈപ്പിങ് സങ്കേതം, ഇൻഡ്യാ ഗവണ്മെന്റ് നിശ്ചയിച്ച ഒരു സ്റ്റാൻഡാർഡ് പ്രകാരം ഉണ്ടാക്കിയതാണ്. 1986 ൽ നിലവിൽ വന്ന ഈ സ്റ്റാൻഡാർഡ് ആണ് പരമ്പരാഗതമായി ടൈപ്റൈറ്ററിലുമൊക്കെ ഉപയോഗിച്ച് വന്നത്. കമ്പ്യൂട്ടറുകൾ പ്രചാരത്തിലായതോടെ അവ കമ്പ്യൂട്ടറുകളിലേയ്ക്കും സ്വീകരിക്കപ്പെട്ടു. Windows 2000, തൊട്ടും മാക് ഓ.എസ്സിന്റെ എൽ കാപ്പിറ്റാൻ പതിപ്പു തൊട്ടും മലയാളം ഇൻഡിക് കീബോർഡുകൾ പ്രമുഖ ഓപ്പറേറ്റിങ് സിസ്റ്റങ്ങളിൽ സന്നിവേശിപ്പിച്ചു തുടങ്ങി. അതോടെ ഇൻസ്ക്രിപ്റ്റ് കീബോർഡുകൾക്ക് പ്രചുരപ്രചാരം ലഭിച്ചു തുടങ്ങി. ഇന്ന് iOS ലും Android ലും ഇൻസ്ക്രപ്റ്റ് കീബോർഡുകൾ പാക്കേജ് ചെയ്ത് വരുന്നുണ്ട്.
 
 
-<a id="org48ff422"></a>
+<a id="org763ede7"></a>
 
 ## What is Malayalam Easy Keyboard
 
@@ -30,7 +30,7 @@
 4.  CTRL കീ മോഡിഫൈയറായി ഉപയോഗിക്കുന്നില്ലാത്തതിനാൽ ഇമാക്സ് പോലുള്ള എഡിറ്ററുകളിലും ഈ
 
 
-<a id="org3bb31de"></a>
+<a id="orgb8cbfa8"></a>
 
 ## Installing Malayalam Easy Keyboard in macOSX
 
@@ -58,7 +58,7 @@
 ഇപ്പോൾ മെനുബാറിൽ മലയാളം ഇൻപുട് ലഭ്യമായിരിക്കും. മെനുബാർ ക്ലിക് ചെയ്ത് മലയാളം-ഈസി സെലെക്ട് ചെയ്ത് ടൈപ് ചെയ്ത് തുടങ്ങാം.
 
 
-<a id="org45e4469"></a>
+<a id="org369e522"></a>
 
 # Malayalam Keyboard Mapping.
 
